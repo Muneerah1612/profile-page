@@ -1,0 +1,18 @@
+.header {height:220px;background-color:purple;border-radius: 120px;}
+.hello {float:right;padding-left: 30px; padding-right: 120px;  border-right-width:40px ;padding-top: 70px;}
+.welcome {padding-left: 400px;font-family: sans-serif;font-size: medium;}
+.welcome h1{padding-top: 70px; color:blueviolet;}
+.welcome p {color: hotpink;}
+.main h1 {text-align: center; font-size: 30px; font-family: courier;}
+.main {background-color:fuchsia; background-position: center;}
+.picture {display:block; margin-left:auto;margin-right:auto;width: 50%;border-radius: 50%;}
+li{text-align: center;font-family:Tahoma; font-size: medium;}
+li{list-style-type:none;}
+.summary {text-align: center;}
+.summary p {padding-bottom: 30px;}
+.summary h1 {padding-top:30px;padding-bottom:0px;}
+.contact-form {padding:20px;}
+.footer{background-color: purple; border-radius: 120px;text-align: center;}
+input {width: 200px;height:50px;}
+textarea {width: 250px; height:120px;}
+.sub {background-color: pink; width:70px;height:20px;}
